@@ -76,8 +76,23 @@ def save_records(records):
         return 0
     conn = sqlite3.connect(DB_PATH)
     saved = 0
+    skipped = 0
     for r in records:
         try:
+            price_date = r.get("arrival_date") or r.get("price_date")
+            commodity  = r.get("commodity")
+            market     = r.get("market")
+
+            # Check if record already exists
+            existing = conn.execute("""
+                SELECT id FROM mandi_prices
+                WHERE commodity = ? AND market = ? AND price_date = ?
+            """, (commodity, market, price_date)).fetchone()
+
+            if existing:
+                skipped += 1
+                continue
+
             conn.execute("""
                 INSERT INTO mandi_prices
                 (state, district, market, commodity, variety, grade,
@@ -93,7 +108,7 @@ def save_records(records):
                 float(r.get("min_price",   0) or 0),
                 float(r.get("max_price",   0) or 0),
                 float(r.get("modal_price", 0) or 0),
-                r.get("arrival_date") or r.get("price_date"),
+                price_date,
                 datetime.now().isoformat()
             ))
             saved += 1
@@ -101,6 +116,7 @@ def save_records(records):
             log.warning(f"Skipped record: {e}")
     conn.commit()
     conn.close()
+    log.info(f"  Saved {saved} new | Skipped {skipped} duplicates")
     return saved
 
 def print_summary():
