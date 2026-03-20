@@ -1,0 +1,86 @@
+2026-03-20 18:02:35,914 | INFO | === MandiWise Scraper Started ===
+2026-03-20 18:02:35,929 | INFO | Database ready
+2026-03-20 18:02:35,930 | INFO | Fetching: Onion | Maharashtra
+2026-03-20 18:02:37,717 | INFO |   Saved 9 records
+2026-03-20 18:02:37,718 | INFO | Fetching: Onion | Uttar Pradesh
+2026-03-20 18:02:38,328 | INFO |   Saved 20 records
+2026-03-20 18:02:38,328 | INFO | Fetching: Onion | Karnataka
+2026-03-20 18:02:39,301 | INFO |   Saved 1 records
+2026-03-20 18:02:39,301 | INFO | Fetching: Onion | Madhya Pradesh
+2026-03-20 18:02:39,854 | INFO |   Saved 4 records
+2026-03-20 18:02:39,854 | INFO | Fetching: Tomato | Maharashtra
+2026-03-20 18:02:40,163 | ERROR | API error for Tomato / Maharashtra: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-20 18:02:40,164 | INFO | Fetching: Tomato | Uttar Pradesh
+2026-03-20 18:02:40,723 | INFO |   Saved 22 records
+2026-03-20 18:02:40,723 | INFO | Fetching: Tomato | Karnataka
+2026-03-20 18:02:42,835 | INFO |   Saved 3 records
+2026-03-20 18:02:42,836 | INFO | Fetching: Tomato | Madhya Pradesh
+2026-03-20 18:02:43,456 | INFO |   Saved 7 records
+2026-03-20 18:02:43,457 | INFO | Fetching: Potato | Maharashtra
+2026-03-20 18:02:44,018 | INFO |   Saved 5 records
+2026-03-20 18:02:44,018 | INFO | Fetching: Potato | Uttar Pradesh
+2026-03-20 18:02:44,375 | ERROR | API error for Potato / Uttar Pradesh: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-20 18:02:44,375 | INFO | Fetching: Potato | Karnataka
+2026-03-20 18:02:44,680 | ERROR | API error for Potato / Karnataka: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-20 18:02:44,680 | INFO | Fetching: Potato | Madhya Pradesh
+2026-03-20 18:02:44,975 | ERROR | API error for Potato / Madhya Pradesh: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-20 18:02:44,976 | INFO | Fetching: Wheat | Maharashtra
+2026-03-20 18:02:47,441 | INFO |   Saved 2 records
+2026-03-20 18:02:47,441 | INFO | Fetching: Wheat | Uttar Pradesh
+2026-03-20 18:02:48,083 | INFO |   Saved 19 records
+2026-03-20 18:02:48,084 | INFO | Fetching: Wheat | Karnataka
+2026-03-20 18:02:48,649 | INFO |   Saved 1 records
+2026-03-20 18:02:48,650 | INFO | Fetching: Wheat | Madhya Pradesh
+2026-03-20 18:02:49,426 | INFO |   Saved 100 records
+2026-03-20 18:02:49,427 | INFO | Fetching: Rice | Maharashtra
+2026-03-20 18:02:50,026 | INFO |   Saved 4 records
+2026-03-20 18:02:50,027 | INFO | Fetching: Rice | Uttar Pradesh
+2026-03-20 18:02:50,643 | INFO |   Saved 7 records
+2026-03-20 18:02:50,643 | INFO | Fetching: Rice | Karnataka
+2026-03-20 18:02:51,293 | INFO |   Saved 1 records
+2026-03-20 18:02:51,294 | INFO | Fetching: Rice | Madhya Pradesh
+2026-03-20 18:02:52,401 | INFO |   Saved 0 records
+2026-03-20 18:02:52,401 | INFO | === Done. Total records saved: 205 ===
+2026-03-20 18:09:22,773 | INFO | === MandiWise Scraper Started ===
+2026-03-20 18:09:22,774 | INFO | Database ready
+2026-03-20 18:09:22,775 | INFO | Fetching: Onion | Maharashtra
+2026-03-20 18:09:24,492 | INFO |   Saved 9 records
+2026-03-20 18:09:24,493 | INFO | Fetching: Onion | Uttar Pradesh
+2026-03-20 18:09:26,078 | INFO |   Saved 20 records
+2026-03-20 18:09:26,079 | INFO | Fetching: Onion | Karnataka
+2026-03-20 18:09:26,370 | ERROR | API error for Onion / Karnataka: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-20 18:09:28,371 | INFO | Fetching: Onion | Madhya Pradesh
+2026-03-20 18:09:29,517 | INFO |   Saved 4 records
+2026-03-20 18:09:29,517 | INFO | Fetching: Tomato | Maharashtra
+2026-03-20 18:09:30,673 | INFO |   Saved 8 records
+2026-03-20 18:09:30,674 | INFO | Fetching: Tomato | Uttar Pradesh
+2026-03-20 18:09:30,993 | ERROR | API error for Tomato / Uttar Pradesh: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-20 18:09:32,994 | INFO | Fetching: Tomato | Karnataka
+2026-03-20 18:09:33,279 | ERROR | API error for Tomato / Karnataka: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-20 18:09:35,279 | INFO | Fetching: Tomato | Madhya Pradesh
+2026-03-20 18:09:36,401 | INFO |   Saved 7 records
+2026-03-20 18:09:36,401 | INFO | Fetching: Potato | Maharashtra
+2026-03-20 18:09:37,672 | INFO |   Saved 5 records
+2026-03-20 18:09:37,672 | INFO | Fetching: Potato | Uttar Pradesh
+2026-03-20 18:09:38,804 | INFO |   Saved 31 records
+2026-03-20 18:09:38,804 | INFO | Fetching: Potato | Karnataka
+2026-03-20 18:09:40,011 | INFO |   Saved 1 records
+2026-03-20 18:09:40,012 | INFO | Fetching: Potato | Madhya Pradesh
+2026-03-20 18:09:41,114 | INFO |   Saved 6 records
+2026-03-20 18:09:41,115 | INFO | Fetching: Wheat | Maharashtra
+2026-03-20 18:09:42,259 | INFO |   Saved 2 records
+2026-03-20 18:09:42,260 | INFO | Fetching: Wheat | Uttar Pradesh
+2026-03-20 18:09:43,500 | INFO |   Saved 19 records
+2026-03-20 18:09:43,501 | INFO | Fetching: Wheat | Karnataka
+2026-03-20 18:09:44,881 | INFO |   Saved 1 records
+2026-03-20 18:09:44,882 | INFO | Fetching: Wheat | Madhya Pradesh
+2026-03-20 18:09:46,295 | INFO |   Saved 100 records
+2026-03-20 18:09:46,295 | INFO | Fetching: Rice | Maharashtra
+2026-03-20 18:09:49,844 | INFO |   Saved 4 records
+2026-03-20 18:09:49,845 | INFO | Fetching: Rice | Uttar Pradesh
+2026-03-20 18:10:05,278 | ERROR | API error for Rice / Uttar Pradesh: HTTPSConnectionPool(host='api.data.gov.in', port=443): Read timed out. (read timeout=15)
+2026-03-20 18:10:07,279 | INFO | Fetching: Rice | Karnataka
+2026-03-20 18:10:07,604 | ERROR | API error for Rice / Karnataka: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-20 18:10:09,605 | INFO | Fetching: Rice | Madhya Pradesh
+2026-03-20 18:10:10,697 | INFO |   Saved 0 records
+2026-03-20 18:10:10,698 | INFO | === Done. Total records saved: 217 ===
