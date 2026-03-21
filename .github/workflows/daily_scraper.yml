@@ -31,8 +31,6 @@ jobs:
         run: |
           git config user.name "MandiWise Bot"
           git config user.email "bot@mandiwise.in"
-          ls -la data/
-          git status
-          git add -f data/
+          git add prices/prices_*.csv
           git diff --staged --quiet || git commit -m "Daily prices $(date +'%Y-%m-%d')"
           git push
