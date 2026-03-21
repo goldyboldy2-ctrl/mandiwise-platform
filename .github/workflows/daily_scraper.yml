@@ -1,0 +1,36 @@
+name: Daily Mandi Price Scraper
+
+on:
+  schedule:
+    - cron: '30 1 * * *'  # 7:00 AM IST every day
+  workflow_dispatch:        # allows manual trigger from GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Run scraper
+        env:
+          DATAGOV_API_KEY: ${{ secrets.DATAGOV_API_KEY }}
+          GITHUB_ACTIONS: "true"
+        run: python scripts/scraper.py
+
+      - name: Commit CSV data
+        run: |
+          git config user.name "MandiWise Bot"
+          git config user.email "bot@mandiwise.in"
+          git add data/prices_*.csv
+          git diff --staged --quiet || git commit -m "Daily prices $(date +'%Y-%m-%d')"
+          git push
