@@ -1,0 +1,195 @@
+state,district,market,commodity,variety,grade,min_price,max_price,modal_price,price_date
+Haryana,Gurgaon,Gurgaon APMC,Onion,Other,Grade B,1000,2000,1500,22/03/2026
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,1400,1600,1500,22/03/2026
+Haryana,Gurgaon,Gurgaon APMC,Tomato,Other,Grade B,1000,2000,1500,22/03/2026
+Rajasthan,Rajsamand,Rajsamand APMC,Tomato,Tomato,FAQ,1000,1200,1100,22/03/2026
+Haryana,Gurgaon,Gurgaon APMC,Potato,Other,Grade B,500,600,550,22/03/2026
+Kerala,Alappuzha,Mannar APMC,Brinjal,Other,FAQ,3000,3300,3200,22/03/2026
+Tripura,Dhalai,Kulai APMC,Brinjal,Round/Long,Grade B,2500,3000,2700,22/03/2026
+Uttarakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal) APMC,Brinjal,Other,Grade A,600,600,600,22/03/2026
+Punjab,Tarntaran,Naushera Pannuan APMC,Cauliflower,Other,Grade B,1000,1000,1000,22/03/2026
+Tripura,Dhalai,Kulai APMC,Cauliflower,Local,Grade B,2000,2500,2300,22/03/2026
+Uttarakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal) APMC,Cauliflower,Other,Grade A,487.5,487.5,487.5,22/03/2026
+Kerala,Alappuzha,Mannar APMC,Cabbage,Other,FAQ,2500,2700,2600,22/03/2026
+Punjab,Tarntaran,Naushera Pannuan APMC,Cabbage,Cabbage,Grade B,800,800,800,22/03/2026
+Tripura,Dhalai,Kulai APMC,Cabbage,Cabbage,Grade B,1000,1500,1300,22/03/2026
+Kerala,Alappuzha,Mannar APMC,Bitter gourd,Other,FAQ,4500,4700,4600,22/03/2026
+Punjab,Tarntaran,Naushera Pannuan APMC,Bottle gourd,Bottle Gourd,Grade B,2000,2000,2000,22/03/2026
+Tripura,Khowai,Teliamura APMC,Bitter gourd,Bitter Gourd,Medium,5400,5600,5500,22/03/2026
+Tripura,Dhalai,Kulai APMC,Bitter gourd,Bitter Gourd,Grade B,5600,6000,5800,22/03/2026
+Gujarat,Narmada,Rajpipla APMC,Banana,Other,Medium,2075,2225,2150,22/03/2026
+Kerala,Malappuram,Mankada VFPCK APMC,Banana,Nendra Bale,Local,2100,2300,2200,22/03/2026
+Kerala,Alappuzha,Mannar APMC,Banana - Green,Banana - Green,FAQ,4500,4600,4500,22/03/2026
+Tripura,Dhalai,Kulai APMC,Banana - Green,Banana - Green,Grade B,1500,2000,1700,22/03/2026
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,5500,5250,22/03/2026
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,7000,8000,7500,22/03/2026
+Tamil Nadu,Karur,Vengamedu(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5600,6000,5800,22/03/2026
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,6000,6500,6250,22/03/2026
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5500,5800,5650,22/03/2026
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,2000,2000,2000,22/03/2026
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,5000,4500,22/03/2026
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4200,5000,4600,22/03/2026
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,5000,4500,22/03/2026
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,5000,4500,22/03/2026
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,4800,4650,22/03/2026
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4500,4250,22/03/2026
+Tamil Nadu,Vellore,Thirupathur APMC,Coriander(Leaves),I Sort,Local,5000,5000,5000,22/03/2026
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,4500,4500,22/03/2026
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Coriander(Leaves),I Sort,Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4200,4200,4200,22/03/2026
+Tamil Nadu,Villupuram,Tindivanam APMC,Coriander(Leaves),I Sort,Local,4000,4000,4000,22/03/2026
+Tamil Nadu,Namakkal,Tiruchengode APMC,Coriander(Leaves),I Sort,Local,5400,6000,5700,22/03/2026
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3400,3800,3600,22/03/2026
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,5500,5250,22/03/2026
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,5000,5000,22/03/2026
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4500,4250,22/03/2026
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4500,4250,22/03/2026
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4200,4600,4400,22/03/2026
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4500,4250,22/03/2026
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,5000,4500,22/03/2026
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,4000,3500,22/03/2026
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4000,4000,22/03/2026
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3200,3600,3400,22/03/2026
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3500,3250,22/03/2026
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3500,4000,3750,22/03/2026
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Coriander(Leaves),I Sort,Local,5000,5000,5000,22/03/2026
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Coriander(Leaves),I Sort,Local,6000,6000,6000,22/03/2026
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,5000,4500,22/03/2026
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,7500,8000,7750,22/03/2026
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4700,5000,4850,22/03/2026
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,6500,7000,6750,22/03/2026
+Tamil Nadu,Erode,Periyar Nagar(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4400,4200,22/03/2026
+Tamil Nadu,Karur,Pallapatti (Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,2000,2400,2200,22/03/2026
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4500,4250,22/03/2026
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,6000,5500,22/03/2026
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,2500,3000,2750,22/03/2026
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,1600,1800,1700,22/03/2026
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3200,3200,3200,22/03/2026
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4000,4000,22/03/2026
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,5000,4500,22/03/2026
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,6000,5500,22/03/2026
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,6000,6000,6000,22/03/2026
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,6000,5500,22/03/2026
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,6000,7000,6500,22/03/2026
+Tamil Nadu,Salem,Mecheri(Uzhavar Sandhai),Coriander(Leaves),I Sort,Local,2000,2500,2250,22/03/2026
+Tamil Nadu,Pudukkottai,Ponnamaravathi(Uzhavar Sandhai),Coriander(Leaves),I Sort,Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5400,6000,5700,22/03/2026
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4000,4000,22/03/2026
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,2500,2500,2500,22/03/2026
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4500,4250,22/03/2026
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3500,4000,3750,22/03/2026
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,6000,5500,22/03/2026
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3600,4000,3800,22/03/2026
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,6000,5500,22/03/2026
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3400,4000,3700,22/03/2026
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Ramanathapuram,Kamuthi(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,1600,1800,1700,22/03/2026
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3500,3500,3500,22/03/2026
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3500,4000,3750,22/03/2026
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4000,4000,22/03/2026
+Tamil Nadu,Thiruvannamalai,Tamarainagar(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,5000,4500,22/03/2026
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,5000,5000,22/03/2026
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3500,3500,3500,22/03/2026
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,5000,4500,22/03/2026
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3500,4000,3750,22/03/2026
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,6000,7000,6500,22/03/2026
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,2000,2000,2000,22/03/2026
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,5500,5250,22/03/2026
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,5500,5250,22/03/2026
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4500,4250,22/03/2026
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,Coriander(Leaves),I Sort,Local,4400,5000,4700,22/03/2026
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5000,6000,5500,22/03/2026
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4200,4500,4350,22/03/2026
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,5200,6000,5600,22/03/2026
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,5000,4500,22/03/2026
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4500,4250,22/03/2026
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4500,4250,22/03/2026
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,7000,8000,7500,22/03/2026
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3500,4000,3750,22/03/2026
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3400,3800,3600,22/03/2026
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,2000,2500,2250,22/03/2026
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3000,3000,3000,22/03/2026
+Tamil Nadu,Thirunelveli,NGO Colony(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3500,4000,3750,22/03/2026
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4000,4000,4000,22/03/2026
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,2500,3000,2750,22/03/2026
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,6000,6000,6000,22/03/2026
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Thirupur,Palladam(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,3500,4000,3750,22/03/2026
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,6500,7000,6750,22/03/2026
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,Coriander(Leaves),I Sort,Local,4500,5000,4750,22/03/2026
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,Soyabean,Local,Local,8000,10000,9000,22/03/2026
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Soyabean,Local,Local,9000,10000,9500,22/03/2026
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Soyabean,Local,Local,8000,9000,8500,22/03/2026
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,Soyabean,Local,Local,8000,10000,9000,22/03/2026
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ) APMC,Soyabean,Local,Local,9000,10000,9500,22/03/2026
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Soyabean,Local,Local,9000,10000,9500,22/03/2026
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Soyabean,Local,Local,8000,8500,8250,22/03/2026
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,4200,5000,4600,22/03/2026
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6600,6600,6600,22/03/2026
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6500,7000,6750,22/03/2026
+Tamil Nadu,Villupuram,Tindivanam APMC,Groundnut,Big (With Shell),Local,7000,7000,7000,22/03/2026
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6400,6800,6600,22/03/2026
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6500,7000,6750,22/03/2026
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6500,7000,6750,22/03/2026
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6000,6500,6250,22/03/2026
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,7500,7500,7500,22/03/2026
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6000,7000,6500,22/03/2026
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6500,7000,6750,22/03/2026
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,7000,8000,7500,22/03/2026
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6200,6500,6350,22/03/2026
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6000,6500,6250,22/03/2026
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,5000,6000,5500,22/03/2026
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6000,7000,6500,22/03/2026
+Tamil Nadu,Thiruvarur,Tiruthuraipoondi(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6000,6000,6000,22/03/2026
+Tamil Nadu,Vellore,Thirupathur APMC,Groundnut,Big (With Shell),Local,6000,6000,6000,22/03/2026
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6800,6800,6800,22/03/2026
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,7000,8000,7500,22/03/2026
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,5500,6000,5750,22/03/2026
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,7000,7500,7250,22/03/2026
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,5000,6000,5500,22/03/2026
+Tamil Nadu,Thiruvannamalai,Tamarainagar(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,7000,8000,7500,22/03/2026
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,7000,8000,7500,22/03/2026
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,8000,8000,8000,22/03/2026
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6000,7000,6500,22/03/2026
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,4000,5000,4500,22/03/2026
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,6500,7000,6750,22/03/2026
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,7000,8000,7500,22/03/2026
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,7000,8000,7500,22/03/2026
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,9000,9000,9000,22/03/2026
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,7000,8000,7500,22/03/2026
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ) APMC,Groundnut,Big (With Shell),Local,8000,8000,8000,22/03/2026
+West Bengal,Murshidabad,Jangipur APMC,Rice,Common,FAQ,3850,4000,3925,22/03/2026
+Rajasthan,Chittorgarh,Kapasan APMC,Maize,Deshi White,FAQ,2400,2600,2500,22/03/2026
+West Bengal,Murshidabad,Jangipur APMC,Maize,Other,FAQ,2125,2275,2200,22/03/2026
