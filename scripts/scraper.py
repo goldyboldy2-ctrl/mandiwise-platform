@@ -138,7 +138,7 @@ def save_to_db(records):
 def save_to_csv(all_records):
     if not all_records:
         return
-     today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.now().strftime("%Y-%m-%d")
     csv_path = f"prices/prices_{today}.csv"
     Path("prices").mkdir(exist_ok=True)
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
