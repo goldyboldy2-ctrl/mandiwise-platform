@@ -80,9 +80,9 @@ def fetch_prices(commodity, state, limit=500):
         "filters[state.keyword]" : state,
     }
     try:
-        response = requests.get(BASE_URL, params=params, timeout=30)
+        response = requests.get(BASE_URL, params=params, timeout=10)
         response.raise_for_status()
-        time.sleep(2)
+        time.sleep(1)
         return response.json()
     except requests.exceptions.RequestException as e:
         log.error(f"Error {commodity}/{state}: {e}")
