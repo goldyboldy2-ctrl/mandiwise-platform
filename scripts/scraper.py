@@ -21,16 +21,12 @@ TARGET_CROPS  = ["Onion", "Tomato", "Potato", "Garlic", "Ginger",
                  "Turmeric", "Dry Chillies", "Cumin (Jeera)", "Coriander",
                  "Soyabean", "Mustard", "Groundnut", "Wheat", "Rice", "Maize"]
 
-TARGET_STATES = ["Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar",
-                 "Chhattisgarh", "Goa", "Gujarat", "Haryana",
-                 "Himachal Pradesh", "Jharkhand", "Karnataka", "Kerala",
-                 "Madhya Pradesh", "Maharashtra", "Manipur", "Meghalaya",
-                 "Mizoram", "Nagaland", "Odisha", "Punjab",
-                 "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana",
-                 "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal",
-                 "Andaman and Nicobar Islands", "Chandigarh", "Delhi",
-                 "Jammu and Kashmir", "Ladakh", "Lakshadweep",
-                 "Puducherry", "Dadra and Nagar Haveli"]
+TARGET_STATES = ["Tamil Nadu", "Madhya Pradesh", "Maharashtra",
+                  "Uttar Pradesh", "Rajasthan", "Karnataka",
+                  "Gujarat", "Haryana", "Punjab", "Andhra Pradesh",
+                  "West Bengal", "Odisha", "Bihar", "Telangana", "Kerala",
+                  "Chhattisgarh", "Uttarakhand", "Himachal Pradesh",
+                  "Assam", "Jharkhand", "Delhi"]
 
 os.makedirs("data", exist_ok=True)
 os.makedirs("logs", exist_ok=True)
