@@ -1,0 +1,382 @@
+state,district,market,commodity,variety,grade,min_price,max_price,modal_price,price_date
+Gujarat,Surat,Surat APMC,Onion,Other,FAQ,400,1800,1100,21/04/2026
+Haryana,Gurgaon,Gurgaon APMC,Onion,Other,Grade B,1000,2000,1500,21/04/2026
+Haryana,Rewari,Kosli APMC,Onion,Other,FAQ,2000,2000,2000,21/04/2026
+Punjab,Tarntaran,Tarantaran APMC,Onion,Other,Local,1600,1700,1656.52,21/04/2026
+Punjab,Ludhiana,Sahnewal APMC,Onion,Onion,FAQ,1900,1900,1900,21/04/2026
+Punjab,Amritsar,Rayya APMC,Onion,Red,FAQ,1160,1160,1160,21/04/2026
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,1700,1800,1800,21/04/2026
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,1300,1500,1400,21/04/2026
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,2000,2500,2200,21/04/2026
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,1700,2000,1800,21/04/2026
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,1200,2000,1500,21/04/2026
+Odisha,Dhenkanal,Dhenkanal APMC,Onion,Onion,Grade B,3100,3100,3100,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Onion,Small,FAQ,4500,5000,4800,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Onion,Other,Local,1650,1750,1700,21/04/2026
+Kerala,Alappuzha,Harippad APMC,Onion,Small,FAQ,4000,4500,4000,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Onion,Big,FAQ,1600,2000,1800,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Onion,Other,FAQ,1800,2000,1900,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Onion,Onion,FAQ,2000,2300,2100,21/04/2026
+Kerala,Alappuzha,Harippad APMC,Onion,Big,FAQ,2000,2500,2000,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Onion,Onion,Medium,2500,3300,2800,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Onion,Big,FAQ,1700,2000,1800,21/04/2026
+Uttarakhand,Dehradoon,Vikasnagar APMC,Onion,Other,Medium,1200,1200,1200,21/04/2026
+Uttarakhand,Haridwar,Roorkee APMC,Onion,Other,Medium,2000,4000,3000,21/04/2026
+Uttar Pradesh,Ghaziabad,Noida APMC,Tomato,Other,FAQ,1000,1000,1000,21/04/2026
+Uttar Pradesh,Bijnor,Kiratpur APMC,Tomato,Other,FAQ,1400,1400,1400,21/04/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Tomato,Tomato,FAQ,1200,1200,1200,21/04/2026
+Uttar Pradesh,Hathras,Shadabad APMC,Tomato,Tomato,Small,1100,1200,1150,21/04/2026
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Tomato,Other,FAQ,1200,1200,1200,21/04/2026
+Uttar Pradesh,Amroha,Amroha APMC,Tomato,Other,FAQ,1000,1000,1000,21/04/2026
+Uttar Pradesh,Ghazipur,Jangipura APMC,Tomato,Other,FAQ,600,600,600,21/04/2026
+Uttar Pradesh,Sambhal,Muradabad APMC,Tomato,Other,FAQ,2000,2000,2000,21/04/2026
+Gujarat,Amreli,Damnagar APMC,Tomato,Local,Local,4000,4000,4000,21/04/2026
+Gujarat,Bharuch,Ankleshwar APMC,Tomato,Tomato,Grade A,1000,2200,1500,21/04/2026
+Gujarat,Surat,Surat APMC,Tomato,Other,FAQ,600,2500,1900,21/04/2026
+Haryana,Gurgaon,Gurgaon APMC,Tomato,Other,Grade B,1000,2000,1500,21/04/2026
+Haryana,Rewari,Kosli APMC,Tomato,Other,FAQ,1500,2000,1800,21/04/2026
+Punjab,Tarntaran,Tarantaran APMC,Tomato,Other,Local,2100,2100,2100,21/04/2026
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,845,845,845,21/04/2026
+Odisha,Keonjhar,Keonjhar APMC,Tomato,Other,Local,1800,2000,2000,21/04/2026
+Odisha,Mayurbhanja,Karanjia APMC,Tomato,Local,Local,1000,1200,1050,21/04/2026
+Odisha,Sundergarh,Bonai APMC,Tomato,Other,FAQ,2000,2220,2110,21/04/2026
+Odisha,Rayagada,Rayagada APMC,Tomato,Other,Local,1300,1400,1400,21/04/2026
+Odisha,Rayagada,Gunpur APMC,Tomato,Local,FAQ,1500,2500,2000,21/04/2026
+Odisha,Kalahandi,Junagarh APMC,Tomato,Other,Grade B,1250,1650,1450,21/04/2026
+Odisha,Mayurbhanja,Betnoti APMC,Tomato,Tomato,FAQ,1000,1400,1200,21/04/2026
+Odisha,Boudh,Boudh APMC,Tomato,Other,Local,800,1000,850,21/04/2026
+Odisha,Bolangir,Kantabaji APMC,Tomato,Other,Grade B,950,950,950,21/04/2026
+Odisha,Dhenkanal,Hindol APMC,Tomato,Tomato,Grade B,2000,2500,2200,21/04/2026
+Odisha,Sundergarh,Panposh APMC,Tomato,Local,FAQ,1500,2500,2000,21/04/2026
+Odisha,Dhenkanal,Dhenkanal APMC,Tomato,Tomato,Grade B,1800,1800,1800,21/04/2026
+Odisha,Cuttack,Rairangpur APMC,Tomato,Hybrid,Grade A,800,2000,1200,21/04/2026
+Odisha,Cuttack,Banki APMC,Tomato,Other,Medium,800,1200,1000,21/04/2026
+Odisha,Kalahandi,Mukhiguda APMC,Tomato,Tomato,Grade B,1900,2500,2200,21/04/2026
+Odisha,Sambalpur,Rairakhol APMC,Tomato,Deshi,Local,1000,1800,1200,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Tomato,Other,Local,3400,3450,3400,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Tomato,Tomato,FAQ,3400,3700,3500,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Tomato,Other,FAQ,3000,3500,3300,21/04/2026
+Kerala,Thiruvananthapuram,Parassala APMC,Tomato,Tomato,Local,3000,3200,3000,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Tomato,Tomato,Medium,2500,3500,3000,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Tomato,Tomato,FAQ,3000,3400,3200,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Tomato,Tomato,FAQ,3000,3500,3200,21/04/2026
+Uttarakhand,Haridwar,Roorkee APMC,Tomato,Other,Medium,1200,2200,1600,21/04/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Potato,Potato,FAQ,700,700,700,21/04/2026
+Uttar Pradesh,Bijnor,Kiratpur APMC,Potato,Other,FAQ,600,600,600,21/04/2026
+Uttar Pradesh,Hathras,Shadabad APMC,Potato,Potato,Small,400,500,450,21/04/2026
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Potato,Desi,FAQ,600,800,700,21/04/2026
+Uttar Pradesh,Badaun,Bisoli APMC,Potato,Desi,Medium,500,500,500,21/04/2026
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Potato,Other,FAQ,500,500,500,21/04/2026
+Uttar Pradesh,Sambhal,Sambhal APMC,Potato,Other,FAQ,400,400,400,21/04/2026
+Uttar Pradesh,Prayagraj,Prayagraj APMC,Potato,Other,FAQ,500,500,500,21/04/2026
+Uttar Pradesh,Mainpuri,Bewar APMC,Potato,Other,FAQ,300,300,300,21/04/2026
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Potato,Other,FAQ,620,620,620,21/04/2026
+Uttar Pradesh,Barabanki,Barabanki APMC,Potato,Other,FAQ,500,500,500,21/04/2026
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Potato,Other,FAQ,500,500,500,21/04/2026
+Uttar Pradesh,Sambhal,Muradabad APMC,Potato,Other,FAQ,400,400,400,21/04/2026
+Gujarat,Surat,Surat APMC,Potato,Other,FAQ,400,1500,950,21/04/2026
+Gujarat,Surat,Surat APMC,Sweet Potato,Other,FAQ,1300,2500,1900,21/04/2026
+Haryana,Gurgaon,Gurgaon APMC,Potato,Other,Grade B,500,700,600,21/04/2026
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,480,480,480,21/04/2026
+Punjab,Ludhiana,Sahnewal APMC,Potato,Potato,FAQ,600,600,600,21/04/2026
+Punjab,Sangrur,Ahmedgarh APMC,Potato,Local,Local,500,600,600,21/04/2026
+Punjab,Tarntaran,Tarantaran APMC,Potato,Other,Local,320,320,320,21/04/2026
+Odisha,Dhenkanal,Dhenkanal APMC,Potato,Other,Grade B,1100,1100,1100,21/04/2026
+Odisha,Rayagada,Rayagada APMC,Potato,Potato,Medium,1300,1400,1400,21/04/2026
+Odisha,Dhenkanal,Hindol APMC,Potato,Potato,Grade B,1000,1200,1100,21/04/2026
+Odisha,Sambalpur,Rairakhol APMC,Potato,Potato,Grade C,1000,1800,1200,21/04/2026
+Odisha,Sundergarh,Bonai APMC,Potato,Other,FAQ,600,890,780,21/04/2026
+Odisha,Sundergarh,Sargipali APMC,Potato,Other,FAQ,700,1000,900,21/04/2026
+Odisha,Boudh,Boudh APMC,Potato,Other,Local,1200,1800,1500,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Potato,Potato,FAQ,2000,2400,2200,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Potato,Potato,Medium,3000,4000,3500,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Potato,Other,Local,2150,2250,2200,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Potato,Potato,FAQ,2800,3100,3000,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Potato,Other,FAQ,2000,2400,2200,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Potato,Other,FAQ,2400,2700,2500,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Sweet Potato,Other,FAQ,2000,2300,2200,21/04/2026
+Uttarakhand,Dehradoon,Vikasnagar APMC,Potato,Other,Medium,400,500,500,21/04/2026
+Uttarakhand,Haridwar,Roorkee APMC,Potato,Other,Medium,800,1200,1000,21/04/2026
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Garlic,Desi,FAQ,6100,6300,6200,21/04/2026
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Garlic,Other,FAQ,3500,3500,3500,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Garlic,Other,FAQ,13800,14200,14000,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Garlic,Garlic,Local,14900,15000,14950,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Garlic,Garlic,FAQ,12500,13200,13000,21/04/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Ginger(Green),Green Ginger,FAQ,4600,4600,4600,21/04/2026
+Uttar Pradesh,Sambhal,Muradabad APMC,Ginger(Green),Other,FAQ,4500,4500,4500,21/04/2026
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Ginger(Green),Green Ginger,FAQ,6100,6300,6200,21/04/2026
+Uttar Pradesh,Lucknow,Lucknow APMC,Ginger(Green),Other,FAQ,3500,3500,3500,21/04/2026
+Gujarat,Surat,Surat APMC,Ginger(Green),Green Ginger,FAQ,2000,4300,3150,21/04/2026
+Gujarat,Amreli,Damnagar APMC,Ginger(Green),Green Ginger,Local,8000,8000,8000,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Ginger(Green),Green Ginger,FAQ,8000,8500,8200,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Ginger(Green),Green Ginger,FAQ,6800,7200,7000,21/04/2026
+Kerala,Kottayam,Pampady APMC,Ginger(Green),Green Ginger,FAQ,12500,15000,13500,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Ginger(Green),Green Ginger,FAQ,6500,7000,6800,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Ginger(Green),Other,Local,6900,7000,6950,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Ginger(Green),Green Ginger,Medium,5000,6000,5500,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Ginger(Green),Other,FAQ,6800,7200,7000,21/04/2026
+Uttar Pradesh,Etah,Awagarh APMC,Brinjal,Brinjal,FAQ,1800,2000,1900,21/04/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Brinjal,Brinjal,FAQ,1500,1500,1500,21/04/2026
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Brinjal,Brinjal,FAQ,1500,1700,1600,21/04/2026
+Gujarat,Amreli,Damnagar APMC,Brinjal,Other,Local,3500,3500,3500,21/04/2026
+Gujarat,Surat,Surat APMC,Brinjal,Brinjal,FAQ,1200,3000,2100,21/04/2026
+Haryana,Rewari,Kosli APMC,Brinjal,Other,FAQ,1000,1000,1000,21/04/2026
+Punjab,Amritsar,Rayya APMC,Brinjal,Round,FAQ,1540,1540,1540,21/04/2026
+Punjab,Tarntaran,Tarantaran APMC,Brinjal,Other,Local,2000,2000,2000,21/04/2026
+Odisha,Rayagada,Gunpur APMC,Brinjal,Brinjal,FAQ,2800,4100,3600,21/04/2026
+Odisha,Mayurbhanja,Karanjia APMC,Brinjal,Brinjal,Local,2200,2400,2300,21/04/2026
+Odisha,Kalahandi,Junagarh APMC,Brinjal,Other,Grade B,2000,2400,2200,21/04/2026
+Odisha,Sundergarh,Bonai APMC,Brinjal,Other,FAQ,2000,2200,2100,21/04/2026
+Odisha,Sundergarh,Panposh APMC,Brinjal,Brinjal,FAQ,1500,2400,2000,21/04/2026
+Odisha,Rayagada,Rayagada APMC,Brinjal,Brinjal,Medium,1900,2000,2000,21/04/2026
+Odisha,Dhenkanal,Dhenkanal APMC,Brinjal,Brinjal,Grade B,3000,3000,3000,21/04/2026
+Odisha,Mayurbhanja,Betnoti APMC,Brinjal,Brinjal,FAQ,1500,1900,1700,21/04/2026
+Odisha,Sundergarh,Sargipali APMC,Brinjal,Brinjal,FAQ,900,1100,1000,21/04/2026
+Odisha,Boudh,Boudh APMC,Brinjal,Other,Local,3000,4000,3500,21/04/2026
+Odisha,Sambalpur,Rairakhol APMC,Brinjal,Brinjal,Local,1500,2500,2000,21/04/2026
+Odisha,Keonjhar,Keonjhar APMC,Brinjal,Other,Local,1200,1500,1500,21/04/2026
+Odisha,Dhenkanal,Hindol APMC,Brinjal,Brinjal,Grade B,4000,5000,4500,21/04/2026
+Odisha,Mayurbhanja,Narasinghpur APMC,Brinjal,Brinjal,Local,3000,4000,3500,21/04/2026
+Odisha,Bolangir,Kantabaji APMC,Brinjal,Other,Grade B,1030,1030,1030,21/04/2026
+Odisha,Nayagarh,Sarankul APMC,Brinjal,Round,Grade Range-2,2000,2300,2200,21/04/2026
+Odisha,Cuttack,Banki APMC,Brinjal,Other,Medium,3000,4000,3500,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Brinjal,Other,FAQ,3400,3600,3500,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Brinjal,Brinjal,FAQ,4000,4500,4200,21/04/2026
+Kerala,Alappuzha,Harippad APMC,Brinjal,Brinjal,FAQ,4500,5000,4500,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Brinjal,Brinjal,FAQ,3400,3800,3600,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Brinjal,Other,Local,3800,3900,3850,21/04/2026
+Kerala,Kottayam,Pampady APMC,Brinjal,Brinjal,FAQ,3300,4500,4000,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Brinjal,Brinjal,FAQ,3500,4000,3800,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Brinjal,Brinjal,Medium,3500,4500,4000,21/04/2026
+Uttarakhand,Dehradoon,Vikasnagar APMC,Brinjal,Other,Medium,1000,1200,1200,21/04/2026
+Uttarakhand,Haridwar,Roorkee APMC,Brinjal,Other,Local,550,750,650,21/04/2026
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Cauliflower,Cauliflower,FAQ,2100,2300,2200,21/04/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cauliflower,Cauliflower,FAQ,1500,1500,1500,21/04/2026
+Uttar Pradesh,Etah,Awagarh APMC,Cauliflower,Cauliflower,FAQ,1800,2000,1900,21/04/2026
+Gujarat,Amreli,Damnagar APMC,Cauliflower,Cauliflower,Local,2000,2000,2000,21/04/2026
+Gujarat,Bharuch,Ankleshwar APMC,Cauliflower,Cauliflower,Grade A,800,1400,1100,21/04/2026
+Gujarat,Surat,Surat APMC,Cauliflower,Cauliflower,FAQ,800,3500,2150,21/04/2026
+Haryana,Rewari,Kosli APMC,Cauliflower,Other,FAQ,2000,2000,2000,21/04/2026
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,1220,1220,1220,21/04/2026
+Punjab,Sangrur,Ahmedgarh APMC,Cauliflower,Local,Local,1400,1600,1600,21/04/2026
+Punjab,Tarntaran,Tarantaran APMC,Cauliflower,Other,Local,1200,1200,1200,21/04/2026
+Odisha,Kalahandi,Junagarh APMC,Cauliflower,Other,Grade B,2500,2900,2700,21/04/2026
+Odisha,Rayagada,Gunpur APMC,Cauliflower,Cauliflower,FAQ,3250,4250,3750,21/04/2026
+Odisha,Boudh,Boudh APMC,Cauliflower,Other,Local,3500,4500,4000,21/04/2026
+Odisha,Keonjhar,Keonjhar APMC,Cauliflower,Other,Local,1200,1500,1500,21/04/2026
+Odisha,Sundergarh,Panposh APMC,Cauliflower,Local,FAQ,2500,3200,3000,21/04/2026
+Odisha,Bolangir,Kantabaji APMC,Cauliflower,Other,Grade B,1650,1650,1650,21/04/2026
+Odisha,Rayagada,Rayagada APMC,Cauliflower,Cauliflower,Local,2400,2500,2500,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Cauliflower,Other,FAQ,2800,3100,3000,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Cauliflower,Cauliflower,Medium,2500,3500,3000,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Cauliflower,Other,FAQ,3800,4200,4000,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Cauliflower,Other,Local,2950,3050,3000,21/04/2026
+Kerala,Kottayam,Pampady APMC,Cauliflower,Cauliflower,FAQ,4000,6000,5000,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Cauliflower,Other,FAQ,3900,4200,4000,21/04/2026
+Uttarakhand,Haridwar,Roorkee APMC,Cauliflower,Other,Local,500,700,600,21/04/2026
+Uttarakhand,Dehradoon,Vikasnagar APMC,Cauliflower,Other,Medium,800,1000,1000,21/04/2026
+Gujarat,Amreli,Damnagar APMC,Cabbage,Cabbage,Local,2500,2500,2500,21/04/2026
+Gujarat,Bharuch,Ankleshwar APMC,Cabbage,Cabbage,Grade A,400,700,500,21/04/2026
+Gujarat,Surat,Surat APMC,Cabbage,Cabbage,FAQ,500,1800,1150,21/04/2026
+Haryana,Rewari,Kosli APMC,Cabbage,Other,FAQ,2000,2000,2000,21/04/2026
+Punjab,Tarntaran,Tarantaran APMC,Cabbage,Cabbage,Local,1300,1300,1300,21/04/2026
+Odisha,Sundergarh,Panposh APMC,Cabbage,Cabbage,FAQ,2000,3000,2500,21/04/2026
+Odisha,Rayagada,Rayagada APMC,Cabbage,Cabbage,Local,1400,1500,1500,21/04/2026
+Odisha,Kalahandi,Mukhiguda APMC,Cabbage,Cabbage,Grade B,2000,2300,2150,21/04/2026
+Odisha,Rayagada,Gunpur APMC,Cabbage,Cabbage,FAQ,3100,4000,3500,21/04/2026
+Odisha,Dhenkanal,Hindol APMC,Cabbage,Cabbage,Grade B,2300,2500,2400,21/04/2026
+Odisha,Keonjhar,Keonjhar APMC,Cabbage,Other,Local,1200,1500,1500,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Cabbage,Other,Local,1650,1750,1700,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Cabbage,Cabbage,FAQ,2200,2500,2300,21/04/2026
+Kerala,Alappuzha,Harippad APMC,Cabbage,Cabbage,FAQ,4000,4500,4000,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Cabbage,Cabbage,Medium,3000,4000,3500,21/04/2026
+Kerala,Kottayam,Pampady APMC,Cabbage,Cabbage,FAQ,2300,4000,3000,21/04/2026
+Kerala,Idukki,Kanthaloor VFPCK APMC,Cabbage,Cabbage,FAQ,3000,3400,3200,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Cabbage,Cabbage,FAQ,2200,2600,2400,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Cabbage,Other,FAQ,2900,3200,3000,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Cabbage,Other,FAQ,1900,2100,2000,21/04/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bitter gourd,Bitter Gourd,FAQ,3500,3500,3500,21/04/2026
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Bottle gourd,Bottle Gourd,FAQ,1500,1700,1600,21/04/2026
+Uttar Pradesh,Etah,Awagarh APMC,Bottle gourd,Bottle Gourd,FAQ,1400,1600,1500,21/04/2026
+Gujarat,Surat,Surat APMC,Bitter gourd,Bitter Gourd,FAQ,2000,4500,3250,21/04/2026
+Gujarat,Surat,Surat APMC,Bottle gourd,Bottle Gourd,FAQ,1000,4500,2750,21/04/2026
+Gujarat,Surat,Surat APMC,Sponge gourd,Other,FAQ,1000,2900,1950,21/04/2026
+Gujarat,Amreli,Damnagar APMC,Bottle gourd,Bottle Gourd,Local,2000,2000,2000,21/04/2026
+Gujarat,Surat,Surat APMC,Little gourd(Kundru),Other,FAQ,1000,3000,2000,21/04/2026
+Gujarat,Surat,Surat APMC,Pointed gourd(Parval),Other,FAQ,3000,4500,3750,21/04/2026
+Haryana,Rewari,Kosli APMC,Bottle gourd,Bottle Gourd,FAQ,2000,2000,2000,21/04/2026
+Punjab,Sangrur,Ahmedgarh APMC,Bitter gourd,Bitter Gourd,Local,3200,3400,3400,21/04/2026
+Odisha,Dhenkanal,Dhenkanal APMC,Bitter gourd,Other,Grade B,3000,3000,3000,21/04/2026
+Odisha,Sundergarh,Bonai APMC,Bitter gourd,Other,FAQ,3310,3510,3420,21/04/2026
+Odisha,Cuttack,Banki APMC,Bitter gourd,Other,Medium,5000,6000,5500,21/04/2026
+Odisha,Keonjhar,Keonjhar APMC,Bitter gourd,Other,Local,4200,4400,4200,21/04/2026
+Odisha,Dhenkanal,Hindol APMC,Bitter gourd,Bitter Gourd,Grade B,4000,4500,4200,21/04/2026
+Odisha,Nayagarh,Sarankul APMC,Bitter gourd,Bitter Gourd,Grade Range-2,2400,2600,2500,21/04/2026
+Odisha,Mayurbhanja,Narasinghpur APMC,Bitter gourd,Bitter Gourd,Local,3000,4000,3500,21/04/2026
+Odisha,Boudh,Boudh APMC,Bitter gourd,Other,Local,3500,4500,4000,21/04/2026
+Odisha,Sundergarh,Panposh APMC,Bottle gourd,Other,FAQ,2000,2500,2200,21/04/2026
+Odisha,Mayurbhanja,Betnoti APMC,Bottle gourd,Bottle Gourd,FAQ,1000,1400,1200,21/04/2026
+Odisha,Bargarh,Attabira APMC,Pointed gourd(Parval),Other,Local,3300,3700,3500,21/04/2026
+Odisha,Cuttack,Banki APMC,Pointed gourd(Parval),Other,Medium,6000,6500,6200,21/04/2026
+Odisha,Sundergarh,Sargipali APMC,Pointed gourd(Parval),Pointed gourd (Parval),FAQ,6000,6500,6200,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Bitter gourd,Bitter Gourd,FAQ,4800,5200,5000,21/04/2026
+Kerala,Thiruvananthapuram,Parassala APMC,Bitter gourd,Bitter Gourd,Local,5500,6000,5500,21/04/2026
+Kerala,Kottayam,Pampady APMC,Bitter gourd,Bitter Gourd,FAQ,6000,7500,7000,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Bitter gourd,Other,Local,4450,4550,4500,21/04/2026
+Kerala,Alappuzha,Harippad APMC,Bitter gourd,Other,FAQ,5000,5500,5000,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Bitter gourd,Bitter Gourd,FAQ,4500,5000,4700,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Bitter gourd,Other,FAQ,4800,5100,5000,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Bitter gourd,Bitter Gourd,Medium,3500,4500,4000,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Bitter gourd,Other,FAQ,5400,5700,5500,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Bottle gourd,Bottle Gourd,Medium,2000,3000,2500,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Bottle gourd,Other,FAQ,1900,2200,2000,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Bottle gourd,Other,Local,1500,1600,1550,21/04/2026
+Kerala,Alappuzha,Harippad APMC,Bottle gourd,Other,FAQ,1500,2000,1500,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Bottle gourd,Bottle Gourd,FAQ,3300,3700,3500,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Bottle gourd,Bottle Gourd,FAQ,2400,2800,2600,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Bottle gourd,Other,FAQ,3300,3600,3500,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Little gourd(Kundru),Other,Local,3400,3500,3450,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Little gourd(Kundru),Other,Medium,2500,3600,3000,21/04/2026
+Uttarakhand,Haridwar,Roorkee APMC,Bitter gourd,Other,Local,650,850,750,21/04/2026
+Uttarakhand,Dehradoon,Vikasnagar APMC,Bottle gourd,Other,Medium,800,1000,1000,21/04/2026
+Uttarakhand,Haridwar,Roorkee APMC,Bottle gourd,Other,Local,600,800,700,21/04/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,2500,2500,2500,21/04/2026
+Gujarat,Amreli,Damnagar APMC,Bhindi(Ladies Finger),Bhindi,Local,4500,4500,4500,21/04/2026
+Gujarat,Surat,Surat APMC,Bhindi(Ladies Finger),Bhindi,FAQ,1000,3500,2250,21/04/2026
+Punjab,Ludhiana,Sahnewal APMC,Bhindi(Ladies Finger),Bhindi,FAQ,4000,4000,4000,21/04/2026
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,825,825,825,21/04/2026
+Odisha,Mayurbhanja,Narasinghpur APMC,Ladies Finger,Ladies Finger,Local,2000,2500,2250,21/04/2026
+Odisha,Dhenkanal,Dhenkanal APMC,Bhindi(Ladies Finger),Bhindi,Grade B,4000,4000,4000,21/04/2026
+Odisha,Sundergarh,Sargipali APMC,Bhindi(Ladies Finger),Bhindi,FAQ,2200,2500,2300,21/04/2026
+Odisha,Cuttack,Banki APMC,Bhindi(Ladies Finger),Bhindi,Local,4000,5000,4500,21/04/2026
+Odisha,Keonjhar,Keonjhar APMC,Bhindi(Ladies Finger),Bhindi,Local,4500,5000,4500,21/04/2026
+Odisha,Sundergarh,Panposh APMC,Bhindi(Ladies Finger),Other,FAQ,4500,5200,5000,21/04/2026
+Odisha,Boudh,Boudh APMC,Bhindi(Ladies Finger),Other,Local,3000,4000,3500,21/04/2026
+Odisha,Dhenkanal,Hindol APMC,Bhindi(Ladies Finger),Bhindi,Grade B,3800,4200,4000,21/04/2026
+Odisha,Sambalpur,Rairakhol APMC,Bhindi(Ladies Finger),Bhindi,Medium,4500,5500,5000,21/04/2026
+Odisha,Sundergarh,Bonai APMC,Bhindi(Ladies Finger),Other,FAQ,2000,2200,2120,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Bhindi(Ladies Finger),Other,FAQ,3800,4200,4000,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Bhindi(Ladies Finger),Other,FAQ,3400,3600,3500,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Bhindi(Ladies Finger),Other,Local,4900,5000,4950,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Bhindi(Ladies Finger),Bhindi,FAQ,4200,4500,4400,21/04/2026
+Kerala,Alappuzha,Harippad APMC,Bhindi(Ladies Finger),Other,FAQ,4000,4500,4000,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Bhindi(Ladies Finger),Bhindi,Medium,3500,4500,4000,21/04/2026
+Kerala,Thiruvananthapuram,Parassala APMC,Bhindi(Ladies Finger),Bhindi,Local,4000,4500,4000,21/04/2026
+Kerala,Kottayam,Pampady APMC,Bhindi(Ladies Finger),Bhindi,FAQ,4500,6000,5500,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Bhindi(Ladies Finger),Other,FAQ,3400,3700,3600,21/04/2026
+Uttar Pradesh,Etah,Awagarh APMC,Banana - Green,Banana - Green,FAQ,1800,2000,1900,21/04/2026
+Gujarat,Narmada,Rajpipla APMC,Banana,Other,Medium,1850,2000,1925,21/04/2026
+Gujarat,Surat,Surat APMC,Banana - Green,Other,FAQ,600,1250,925,21/04/2026
+Haryana,Rewari,Kosli APMC,Banana,Other,Medium,2000,2000,2000,21/04/2026
+Odisha,Dhenkanal,Hindol APMC,Banana - Green,Other,Grade B,2700,3000,2800,21/04/2026
+Odisha,Sundergarh,Bonai APMC,Banana - Green,Other,FAQ,1455,1605,1575,21/04/2026
+Odisha,Cuttack,Banki APMC,Banana - Green,Banana - Green,Local,1000,1500,1200,21/04/2026
+Kerala,Thiruvananthapuram,Parassala APMC,Banana,Palayamthodan,Local,2000,2200,2000,21/04/2026
+Kerala,Thiruvananthapuram,Parassala APMC,Banana,Red Banana,Local,7000,7500,7000,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Banana,Nendra Bale,Local,2400,2500,2450,21/04/2026
+Kerala,Malappuram,Chungathara VFPCK APMC,Banana,Nendra Bale,Grade Range-1,2100,2300,2200,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Banana,Poovan,Medium,5000,6000,5500,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Banana,Palayamthodan,Medium,2000,3000,2600,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Banana,Other,Large,4400,4700,4600,21/04/2026
+Kerala,Thiruvananthapuram,Parassala APMC,Banana,Nendra Bale,Local,4000,4500,4000,21/04/2026
+Kerala,Thiruvananthapuram,Parassala APMC,Banana,Rasakathai,Local,5500,6000,5500,21/04/2026
+Kerala,Kottayam,Pampady APMC,Banana - Green,Banana - Green,FAQ,4500,6000,5500,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Banana - Green,Banana - Green,FAQ,3200,3500,3300,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Banana - Green,Banana - Green,Local,2250,2350,2300,21/04/2026
+Kerala,Alappuzha,Harippad APMC,Banana - Green,Other,FAQ,3500,4000,3500,21/04/2026
+Kerala,Kozhikode(Calicut),Kallachi APMC,Banana - Green,Banana - Green,FAQ,5300,5700,5500,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Banana - Green,Banana - Green,Medium,2400,2800,2600,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Banana - Green,Banana - Green,FAQ,2400,2700,2500,21/04/2026
+Uttarakhand,Haridwar,Roorkee APMC,Banana,Other,Medium,800,1200,1000,21/04/2026
+Gujarat,Surat,Surat APMC,Mango(Raw-Ripe),Other,FAQ,2000,11000,6500,21/04/2026
+Punjab,Sangrur,Ahmedgarh APMC,Mango,Other,Medium,12000,13000,12000,21/04/2026
+Odisha,Mayurbhanja,Karanjia APMC,Mango,Other,Local,6000,7000,6500,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Mango,Other,Local,5000,5100,5050,21/04/2026
+Kerala,Kottayam,Pampady APMC,Mango(Raw-Ripe),Mango - Raw-Ripe,FAQ,4500,5500,5000,21/04/2026
+Kerala,Malappuram,Kondotty APMC,Mango(Raw-Ripe),Other,FAQ,3300,3600,3500,21/04/2026
+Kerala,Alappuzha,Chengannur APMC,Mango(Raw-Ripe),Mango - Raw-Ripe,FAQ,2900,3200,3000,21/04/2026
+Kerala,Ernakulam,Perumbavoor APMC,Mango(Raw-Ripe),Mango - Raw-Ripe,Medium,3000,4000,3500,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Grapes,Other,Large,7500,8000,7700,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Grapes,Other,Local,5000,5100,5050,21/04/2026
+Kerala,Kozhikode(Calicut),Mukkom APMC,Apple,Other,Large,26500,29000,27900,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Apple,Other,Local,18000,18100,18050,21/04/2026
+Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Pegeon Pea(Arhar Fali),Other,FAQ,6000,6000,6000,21/04/2026
+Uttar Pradesh,Bijnor,Kiratpur APMC,Pegeon Pea(Arhar Fali),Other,FAQ,5000,5000,5000,21/04/2026
+Uttar Pradesh,Sambhal,Muradabad APMC,Pegeon Pea(Arhar Fali),Other,FAQ,7000,7000,7000,21/04/2026
+Gujarat,Surat,Surat APMC,Pegeon Pea(Arhar Fali),Other,FAQ,3500,11000,7250,21/04/2026
+Kerala,Thiruvananthapuram,Pappanchani VFPCK APMC,Amranthas Red,Chawli Lal,Grade A,3000,3000,3000,21/04/2026
+Gujarat,Surat,Surat APMC,Turmeric(raw),Other,FAQ,2000,6000,4000,21/04/2026
+Uttar Pradesh,Jalaun (Orai),Konch APMC,Peas(Dry),Other,FAQ,4400,4400,4400,21/04/2026
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Peas(Dry),Other,FAQ,4200,4200,4200,21/04/2026
+Gujarat,Amreli,Damnagar APMC,Coriander(Leaves),Coriander,Local,3000,3000,3000,21/04/2026
+Kerala,Malappuram,Manjeri APMC,Coriander(Leaves),Coriander,Local,4900,5000,4950,21/04/2026
+Madhya Pradesh,Sheopur,Vijaypur APMC,Mustard,Mustard,Non-FAQ,6500,6525,6525,21/04/2026
+Gujarat,Surat,Surat APMC,Groundnut pods(raw),Other,FAQ,4000,5500,4750,21/04/2026
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Wheat,Non-FAQ,2200,2200,2200,21/04/2026
+Uttar Pradesh,Gautam Budh Nagar,Dadri APMC,Wheat,Dara,FAQ,2591,2595,2592.9,21/04/2026
+Uttar Pradesh,Jalaun (Orai),Kalpi APMC,Wheat,Dara,FAQ,2585,2585,2585,21/04/2026
+Uttar Pradesh,Badaun,Babrala APMC,Wheat,Dara,FAQ,2586,2586,2586,21/04/2026
+Uttar Pradesh,Shravasti,Bhinga APMC,Wheat,Dara,FAQ,2430,2430,2430,21/04/2026
+Uttar Pradesh,Saharanpur,Saharanpur APMC,Wheat,Dara,FAQ,2475,2475,2475,21/04/2026
+Uttar Pradesh,Mahoba,Charkhari APMC,Wheat,Dara,FAQ,2590,2590,2590,21/04/2026
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Wheat,Other,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia APMC,Wheat,Dara,FAQ,2300,2300,2300,21/04/2026
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Medium,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Other,FAQ,2586,2586,2586,21/04/2026
+Uttar Pradesh,Badaun,Shahaswan APMC,Wheat,Other,FAQ,2400,2420,2408,21/04/2026
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Wheat,Medium,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Wheat,Dara,FAQ,2300,2300,2300,21/04/2026
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Wheat,Dara,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Badaun,Wazirganj APMC,Wheat,Other,FAQ,2410,2410,2410,21/04/2026
+Uttar Pradesh,Rampur,Bilaspur APMC,Wheat,Dara,FAQ,2480,2480,2480,21/04/2026
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,Local,FAQ,2425,2425,2425,21/04/2026
+Uttar Pradesh,Badaun,Bisoli APMC,Wheat,Other,Local,2350,2355,2350,21/04/2026
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,2189 No. 2,FAQ,2380,2380,2380,21/04/2026
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,C-83,FAQ,2380,2380,2380,21/04/2026
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,2400,2400,2400,21/04/2026
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Wheat,Dara,FAQ,2250,2250,2250,21/04/2026
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Wheat,Dara,FAQ,2400,2400,2400,21/04/2026
+Uttar Pradesh,Auraiya,Dibiapur APMC,Wheat,Dara,FAQ,2300,2300,2300,21/04/2026
+Uttar Pradesh,Agra,Jagnair APMC,Wheat,Medium,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Shahjahanpur,Jalalabad APMC,Wheat,Other,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,2329,FAQ,2380,2380,2380,21/04/2026
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Wheat,Dara,FAQ,2450,2450,2450,21/04/2026
+Uttar Pradesh,Shahjahanpur,Jalalabad APMC,Wheat,Deshi,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,PBW-343,FAQ,2455,2455,2455,21/04/2026
+Uttar Pradesh,Bareilly,Bareilly APMC,Wheat,Dara,FAQ,2300,2310,2306.95,21/04/2026
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Wheat,PBW-343,FAQ,2250,2250,2250,21/04/2026
+Uttar Pradesh,Lakhimpur,Paliakala APMC,Wheat,Other,FAQ,2300,2300,2300,21/04/2026
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,FAQ,2400,2480,2408.63,21/04/2026
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Wheat,Dara,FAQ,2300,2300,2300,21/04/2026
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Wheat,Dara,FAQ,2300,2300,2300,21/04/2026
+Uttar Pradesh,Etah,Etah APMC,Wheat,Medium,FAQ,2600,2600,2600,21/04/2026
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,PBW-343,FAQ,2380,2380,2380,21/04/2026
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Wheat,Deshi,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Unnao,Bangarmau APMC,Wheat,Dara,FAQ,2300,2480,2327.82,21/04/2026
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Wheat,Other,FAQ,2300,2301,2300.33,21/04/2026
+Uttar Pradesh,Lalitpur,Mehrauni APMC,Wheat,Dara,FAQ,2360,2360,2360,21/04/2026
+Uttar Pradesh,Bareilly,Anwala APMC,Wheat,Other,FAQ,2400,2400,2400,21/04/2026
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,Deshi,FAQ,2380,2380,2380,21/04/2026
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Wheat,Dara Mill Quality,FAQ,2400,2400,2400,21/04/2026
+Uttar Pradesh,Gautam Budh Nagar,Jewar APMC,Wheat,Other,FAQ,2460,2460,2460,21/04/2026
+Uttar Pradesh,Hathras,Sikandraraau APMC,Wheat,Dara,FAQ,2400,2425,2413.31,21/04/2026
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Wheat,Dara,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Other,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Other,FAQ,2400,2400,2400,21/04/2026
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Wheat,Other,FAQ,2400,2400,2400,21/04/2026
+Uttar Pradesh,Kanpur Dehat,Jhijhank APMC,Wheat,Dara,FAQ,2300,2300,2300,21/04/2026
+Uttar Pradesh,Shahjahanpur,Meeranpur Katra APMC,Wheat,Medium,FAQ,2340,2340,2340,21/04/2026
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,2350,2350,2350,21/04/2026
+Uttar Pradesh,Hardoi,Hardoi APMC,Wheat,Dara,FAQ,2325,2329,2328.21,21/04/2026
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Other,FAQ,2400,2400,2400,21/04/2026
+Uttar Pradesh,Maharajganj,Partaval APMC,Wheat,Dara,FAQ,2200,2200,2200,21/04/2026
+Uttar Pradesh,Hardoi,Shahabad(New Mandi) APMC,Wheat,Dara,FAQ,2350,2350,2350,21/04/2026
+Haryana,Kurukshetra,Babain APMC,Wheat,Local,Local,2585,2585,2585,21/04/2026
+Punjab,Tarntaran,Tarantaran APMC,Wheat,Other,Local,2585,2585,2585,21/04/2026
+Uttar Pradesh,Shravasti,Payagpur APMC,Rice,Common,FAQ,2500,2500,2500,21/04/2026
+Uttar Pradesh,Ghazipur,Yusufpur APMC,Rice,Common,FAQ,2400,2400,2400,21/04/2026
+Uttar Pradesh,Maharajganj,Partaval APMC,Rice,Common,FAQ,2200,2200,2200,21/04/2026
+Odisha,Mayurbhanja,Karanjia APMC,Rice,Common,FAQ,3400,3500,3500,21/04/2026
+Odisha,Mayurbhanja,Karanjia APMC,Rice,Other,FAQ,3500,3600,3600,21/04/2026
+Uttar Pradesh,Hardoi,Hardoi APMC,Maize,Other,FAQ,1700,1700,1700,21/04/2026
+Odisha,Rayagada,Gunpur APMC,Maize,Local,FAQ,1200,2250,1650,21/04/2026
