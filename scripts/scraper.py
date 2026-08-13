@@ -75,7 +75,7 @@ def fetch_prices(commodity, state, limit=500):
         "filters[commodity]"     : commodity,
         "filters[state.keyword]" : state,
     }
-   for attempt in range(3):
+    for attempt in range(3):
         try:
             response = requests.get(BASE_URL, params=params, timeout=30)
             response.raise_for_status()
