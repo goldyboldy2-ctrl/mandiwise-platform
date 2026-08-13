@@ -75,15 +75,16 @@ def fetch_prices(commodity, state, limit=500):
         "filters[commodity]"     : commodity,
         "filters[state.keyword]" : state,
     }
-    try:
-        response = requests.get(BASE_URL, params=params, timeout=10)
-        response.raise_for_status()
-        time.sleep(1)
-        return response.json()
-    except requests.exceptions.RequestException as e:
-        log.error(f"Error {commodity}/{state}: {e}")
-        time.sleep(5)
-        return None
+   for attempt in range(3):
+        try:
+            response = requests.get(BASE_URL, params=params, timeout=30)
+            response.raise_for_status()
+            time.sleep(1)
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            log.error(f"Error {commodity}/{state} (attempt {attempt + 1}/3): {e}")
+            time.sleep(5)
+    return None
 
 def record_exists(conn, commodity, market, price_date):
     result = conn.execute("""
