@@ -75,9 +75,14 @@ def fetch_prices(commodity, state, limit=500):
         "filters[commodity]"     : commodity,
         "filters[state.keyword]" : state,
     }
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "application/json",
+    }
     for attempt in range(3):
         try:
-            response = requests.get(BASE_URL, params=params, timeout=30)
+            response = requests.get(BASE_URL, params=params, headers=headers, timeout=30)
             response.raise_for_status()
             time.sleep(1)
             return response.json()
