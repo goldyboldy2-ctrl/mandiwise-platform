@@ -1,0 +1,64 @@
+state,district,market,commodity,variety,grade,min_price,max_price,modal_price,price_date
+Haryana,Sirsa,Rania(Jiwan nagar) APMC,Onion,Other,FAQ,350,500,400,17/08/2026
+Haryana,Sirsa,Rania APMC,Onion,Other,FAQ,0.11,0.19,0.12,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Onion,Other,Grade A,2600,2600,2600,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,1st Sort,Small,2400,2400,2400,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,1st Sort,Grade A,3000,3000,3000,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,1st Sort,Grade B,2900,2900,2900,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,1st Sort,Grade C,2600,2600,2600,17/08/2026
+Haryana,Sirsa,Rania APMC,Tomato,Tomato,FAQ,2,6,3,17/08/2026
+Haryana,Sirsa,Rania(Jiwan nagar) APMC,Tomato,Deshi,FAQ,50,85,60,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Tomato,Other,Grade A,3200,3200,3200,17/08/2026
+Odisha,Sundergarh,Panposh APMC,Tomato,Deshi,FAQ,3000,3500,3200,17/08/2026
+Haryana,Sirsa,Rania(Jiwan nagar) APMC,Potato,Other,FAQ,80,150,100,17/08/2026
+Haryana,Sirsa,Rania APMC,Potato,Potato,FAQ,0.11,2,0.13,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Potato,Other,Grade A,650,650,650,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Jyoti,Grade B,1100,1100,1100,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Jyoti,Grade A,1150,1150,1150,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Red Nanital,Grade C,1100,1100,1100,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Red Nanital,Grade A,1200,1200,1200,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Red Nanital,Grade B,1150,1150,1150,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Garlic,Other,Grade Range-1,7750,7750,7750,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Ginger(Green),Other,Grade A,8600,8600,8600,17/08/2026
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,800,900,850,17/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Brinjal,Brinjal,FAQ,1399,1500,1400,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Brinjal,Other,FAQ,1700,1700,1700,17/08/2026
+Odisha,Sundergarh,Panposh APMC,Brinjal,Brinjal,FAQ,3000,4000,3500,17/08/2026
+Odisha,Angul,Angul(Atthamallick) APMC,Brinjal,Brinjal,Grade B,4500,5500,5000,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Brinjal,Arkasheela Mattigulla,Grade A,2200,2200,2200,17/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cauliflower,Cauliflower,FAQ,2298,2400,2300,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Cauliflower,Other,Grade A,3000,3000,3000,17/08/2026
+Odisha,Sundergarh,Panposh APMC,Cauliflower,Local,FAQ,4000,4500,4200,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Cauliflower,African Sarson,Grade A,6300,6300,6300,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Cabbage,Other,Grade A,1600,1600,1600,17/08/2026
+Odisha,Sundergarh,Panposh APMC,Cabbage,Cabbage,FAQ,2000,3000,2500,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Cabbage,Cabbage,Grade A,2500,2500,2500,17/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bitter gourd,Bitter Gourd,FAQ,2077,2300,2100,17/08/2026
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,600,700,650,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Bitter gourd,Other,Grade A,2900,2900,2900,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Bottle gourd,Other,Grade A,1850,1850,1850,17/08/2026
+Odisha,Sundergarh,Panposh APMC,Bitter gourd,Other,FAQ,4000,5000,4500,17/08/2026
+Odisha,Sundergarh,Panposh APMC,Bottle gourd,Bottle Gourd,FAQ,2000,2500,2200,17/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,1520,1560,1530,17/08/2026
+Haryana,Sirsa,Rania(Jiwan nagar) APMC,Bhindi(Ladies Finger),Bhindi,FAQ,550,800,650,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Bhindi(Ladies Finger),Other,Grade A,2700,2700,2700,17/08/2026
+Andhra Pradesh,Visakhapatnam,Bhimunipatnam APMC,Ragi(Finger Millet),Local,Local,5000,5000,5000,17/08/2026
+Odisha,Angul,Angul(Atthamallick) APMC,Bhindi(Ladies Finger),Bhindi,Grade B,3500,4500,4000,17/08/2026
+Odisha,Sundergarh,Panposh APMC,Bhindi(Ladies Finger),Other,FAQ,3000,3500,3200,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Bhindi(Ladies Finger),Bhindi,Grade A,1000,1000,1000,17/08/2026
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Bhindi(Ladies Finger),Bhindi,Grade C,900,900,900,17/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana,Medium,Grade B,3799,3830,3800,17/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana - Green,Banana - Green,FAQ,1795,1820,1800,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Banana - Green,Other,Grade A,2500,2500,2500,17/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Mango,Dusheri,Grade B,3386,3400,3390,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Mango,Other,Grade A,4200,4200,4200,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Pomegranate,Other,Grade A,9300,9300,9300,17/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Apple,Apple,Grade B,8950,8999,8960,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Apple,Apple,Grade C,4500,4500,4500,17/08/2026
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,17000,27500,24500,17/08/2026
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,15000,22000,19500,17/08/2026
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Turmeric,Finger,FAQ,10500,11500,11000,17/08/2026
+Punjab,Gurdaspur,Gurdaspur APMC,Coriander(Leaves),Other,FAQ,4200,4200,4200,17/08/2026
+Andhra Pradesh,Ananthapuramu,Singanamala APMC,Groundnut,Local,Grade Range-1,6600,7800,7200,17/08/2026
+Andhra Pradesh,Vijayanagaram,Bobbili APMC,Maize,Local,FAQ,4800,4800,4800,17/08/2026
+Andhra Pradesh,Vijayanagaram,Chipurupalli APMC,Maize,Local,FAQ,4800,4800,4800,17/08/2026
