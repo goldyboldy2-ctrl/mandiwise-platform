@@ -1,0 +1,44 @@
+state,district,market,commodity,variety,grade,min_price,max_price,modal_price,price_date
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,2200,2600,2400,19/08/2026
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,1420,1420,1420,19/08/2026
+Bihar,Siwan,Maharjganj APMC,Onion,1st Sort,FAQ,3200,3200,3200,19/08/2026
+Rajasthan,Churu,Churu APMC,Tomato,Hybrid,FAQ,1600,2000,1800,19/08/2026
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,705,705,705,19/08/2026
+Odisha,Kalahandi,Bhawanipatna APMC,Tomato,Tomato,Local,3300,3300,3300,19/08/2026
+Bihar,Siwan,Maharjganj APMC,Tomato,Deshi,FAQ,2800,2800,2800,19/08/2026
+Rajasthan,Churu,Churu APMC,Potato,Red Nanital,FAQ,900,1000,950,19/08/2026
+Punjab,Amritsar,Rayya APMC,Potato,Other,FAQ,720,720,720,19/08/2026
+Bihar,Siwan,Maharjganj APMC,Potato,Red Nanital,FAQ,1700,1700,1700,19/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Brinjal,Brinjal,FAQ,1470,1500,1480,19/08/2026
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,800,900,850,19/08/2026
+Punjab,Tarntaran,Bhikhiwind APMC,Brinjal,Brinjal,Grade C,1000,1000,1000,19/08/2026
+Bihar,Sheikhpura,Barbigha APMC,Brinjal,Arkasheela Mattigulla,FAQ,3330,3480,3400,19/08/2026
+Bihar,Sheikhpura,Shekhpura APMC,Brinjal,Arkasheela Mattigulla,FAQ,3310,3440,3380,19/08/2026
+Bihar,Siwan,Maharjganj APMC,Brinjal,Arkasheela Mattigulla,FAQ,1600,1600,1600,19/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cauliflower,Cauliflower,FAQ,2300,2370,2340,19/08/2026
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,3190,3190,3190,19/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bitter gourd,Bitter Gourd,FAQ,2081,2100,2090,19/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bottle gourd,Bottle Gourd,FAQ,1299,1340,1300,19/08/2026
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,800,900,850,19/08/2026
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,1368,1368,1368,19/08/2026
+Odisha,Kalahandi,Bhawanipatna APMC,Bitter gourd,Other,Local,2800,2800,2800,19/08/2026
+Odisha,Kalahandi,Bhawanipatna APMC,Pointed gourd(Parval),Pointed gourd (Parval),Local,3000,3000,3000,19/08/2026
+Bihar,Sheikhpura,Barbigha APMC,Bitter gourd,Bitter Gourd,FAQ,3300,3490,3380,19/08/2026
+Bihar,Sheikhpura,Shekhpura APMC,Bitter gourd,Bitter Gourd,FAQ,3475,3610,3560,19/08/2026
+Bihar,Sheikhpura,Shekhpura APMC,Bottle gourd,Bottle Gourd,FAQ,2505,2670,2580,19/08/2026
+Bihar,Siwan,Maharjganj APMC,Sponge gourd,Other,FAQ,1500,1500,1500,19/08/2026
+Bihar,Sheikhpura,Barbigha APMC,Bottle gourd,Bottle Gourd,FAQ,2440,2590,2510,19/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,1555,1590,1566,19/08/2026
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,700,700,700,19/08/2026
+Andhra Pradesh,Visakhapatnam,Bhimunipatnam APMC,Ragi(Finger Millet),Local,Local,5000,5000,5000,19/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana,Medium,Grade B,3799,3888,3800,19/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana - Green,Banana - Green,FAQ,1666,1688,1677,19/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Mango,Dusheri,Grade B,3388,3440,3400,19/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Apple,Apple,Grade B,8966,8999,8977,19/08/2026
+Andhra Pradesh,Prakasam,Maddipadu APMC,Bengal Gram(Gram)(Whole),Gulabi,FAQ,6000,6000,6000,19/08/2026
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Groundnut,Local,FAQ,7400,7600,7500,19/08/2026
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,6500,7500,7000,19/08/2026
+Bihar,Sheikhpura,Barbigha APMC,Wheat,147 Average,FAQ,2500,2640,2580,19/08/2026
+Bihar,Sheikhpura,Shekhpura APMC,Wheat,147 Average,FAQ,2500,2670,2560,19/08/2026
+Andhra Pradesh,Vijayanagaram,Chipurupalli APMC,Maize,Local,FAQ,4800,4800,4800,19/08/2026
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Maize,Hybrid/Local,FAQ,2450,2600,2500,19/08/2026
