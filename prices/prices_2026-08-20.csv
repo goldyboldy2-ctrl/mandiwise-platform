@@ -1,0 +1,64 @@
+state,district,market,commodity,variety,grade,min_price,max_price,modal_price,price_date
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,1421,1421,1421,20/08/2026
+Punjab,Moga,Nihal Singh Wala APMC,Onion,Onion,FAQ,3200,3200,3200,20/08/2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,2650,2800,2750,20/08/2026
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,706,706,706,20/08/2026
+Punjab,Moga,Nihal Singh Wala APMC,Tomato,Other,FAQ,2700,2700,2700,20/08/2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Tomato,Hybrid,FAQ,2600,2750,2700,20/08/2026
+Odisha,Sundergarh,Panposh APMC,Tomato,Hybrid,FAQ,3000,4000,3500,20/08/2026
+Bihar,Madhubani,Jainagar APMC,Tomato,Deshi,Grade A,3800,5000,4280,20/08/2026
+Punjab,Moga,Nihal Singh Wala APMC,Potato,Potato,FAQ,800,800,800,20/08/2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Potato,Jyoti,FAQ,800,860,820,20/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Brinjal,Brinjal,FAQ,1400,1460,1440,20/08/2026
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Brinjal,Round/Long,FAQ,1120,1160,1140,20/08/2026
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,500,500,500,20/08/2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Brinjal,Other,FAQ,3650,3800,3785,20/08/2026
+Odisha,Sundergarh,Panposh APMC,Brinjal,Brinjal,FAQ,3000,4000,3500,20/08/2026
+Bihar,Madhubani,Jainagar APMC,Brinjal,Brinjal,Grade A,2000,3000,2400,20/08/2026
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cauliflower,Cauliflower,FAQ,1500,1530,1515,20/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cauliflower,Cauliflower,FAQ,2300,2400,2330,20/08/2026
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,1166,1166,1166,20/08/2026
+Odisha,Sundergarh,Panposh APMC,Cauliflower,Other,FAQ,4000,4500,4200,20/08/2026
+Bihar,Madhubani,Jainagar APMC,Cauliflower,Cauliflower,Grade A,6800,8000,7250,20/08/2026
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cabbage,Cabbage,FAQ,940,980,960,20/08/2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Cabbage,Other,FAQ,1800,2050,1950,20/08/2026
+Odisha,Sundergarh,Panposh APMC,Cabbage,Cabbage,FAQ,2000,3000,2500,20/08/2026
+Bihar,Madhubani,Jainagar APMC,Cabbage,Cabbage,Grade A,2150,3000,2500,20/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bitter gourd,Bitter Gourd,FAQ,2091,2130,2100,20/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bottle gourd,Bottle Gourd,FAQ,1299,1330,1300,20/08/2026
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bottle gourd,Bottle Gourd,FAQ,1000,1040,1020,20/08/2026
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Pointed gourd(Parval),Pointed gourd (Parval),FAQ,2420,2460,2440,20/08/2026
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,1365,1365,1365,20/08/2026
+Punjab,Moga,Nihal Singh Wala APMC,Bottle gourd,Bottle Gourd,FAQ,3500,3500,3500,20/08/2026
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bitter gourd,Other,Grade A,2000,2000,2000,20/08/2026
+Odisha,Sundergarh,Panposh APMC,Bitter gourd,Other,FAQ,4000,5000,4500,20/08/2026
+Odisha,Sundergarh,Panposh APMC,Bottle gourd,Bottle Gourd,FAQ,2000,2500,2200,20/08/2026
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bottle gourd,Other,Grade A,2000,2000,2000,20/08/2026
+Bihar,Madhubani,Jainagar APMC,Bitter gourd,Bitter Gourd,Grade A,3000,4000,3400,20/08/2026
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,2240,2280,2260,20/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,1550,1600,1590,20/08/2026
+Punjab,Moga,Nihal Singh Wala APMC,Bhindi(Ladies Finger),Other,FAQ,4100,4100,4100,20/08/2026
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,700,700,700,20/08/2026
+Odisha,Sundergarh,Panposh APMC,Bhindi(Ladies Finger),Other,FAQ,3000,3500,3200,20/08/2026
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bhindi(Ladies Finger),Bhindi,Grade A,2000,2000,2000,20/08/2026
+Bihar,Madhubani,Jainagar APMC,Bhindi(Ladies Finger),Bhindi,Grade A,1450,2000,1700,20/08/2026
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Banana - Green,Banana - Green,FAQ,1780,1820,1800,20/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana - Green,Banana - Green,FAQ,1600,1690,1650,20/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana,Medium,Grade B,3799,3880,3800,20/08/2026
+Bihar,Madhubani,Jainagar APMC,Banana - Green,Banana - Green,Grade A,3500,4000,3700,20/08/2026
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Apple,Apple,Grade B,8976,8999,8988,20/08/2026
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Red gram/Arhar/Tur(whole),Local,Grade Range-1,3980,5900,4800,20/08/2026
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,17000,27000,22500,20/08/2026
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,15000,22000,19500,20/08/2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Masur Dal,Masur Dal,FAQ,9650,9850,9765,20/08/2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Mustard,Other,FAQ,6250,6500,6450,20/08/2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Mustard Oil,Other,FAQ,17500,18500,18000,20/08/2026
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Groundnut,Local,FAQ,7400,7600,7500,20/08/2026
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Groundnut,Local,Grade Range-1,3616,5700,4680,20/08/2026
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,6500,7500,7000,20/08/2026
+Andhra Pradesh,Tirupathi,Srikalahasti APMC,Groundnut,Local,Local,6500,6800,6650,20/08/2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,2600,2850,2750,20/08/2026
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Rice,B P T,FAQ,6000,6000,6000,20/08/2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Rice,Fine,FAQ,4675,4865,4750,20/08/2026
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Maize,Hybrid/Local,FAQ,2400,2600,2500,20/08/2026
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,Maize,Hybrid,FAQ,2400,2480,2450,20/08/2026
