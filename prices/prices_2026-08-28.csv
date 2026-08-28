@@ -1,0 +1,11 @@
+state,district,market,commodity,variety,grade,min_price,max_price,modal_price,price_date
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,1417,1417,1417,28/08/2026
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,701,701,701,28/08/2026
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,754,754,754,28/08/2026
+Punjab,Amritsar,Rayya APMC,Brinjal,Round,FAQ,1825,1825,1825,28/08/2026
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,1175,1175,1175,28/08/2026
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,1362,1362,1362,28/08/2026
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,695,695,695,28/08/2026
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,6500,7500,7000,28/08/2026
+Andhra Pradesh,NTR,Mylavaram APMC,Maize,Hybrid,Local,2350,2350,2350,28/08/2026
+Andhra Pradesh,Vijayanagaram,Chipurupalli APMC,Maize,Local,FAQ,4800,4800,4800,28/08/2026
